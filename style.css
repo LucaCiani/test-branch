@@ -1,15 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.paragraph {
+    color: red;
+    font-weight: 600;
+}
+
+.section {
+    padding: 1rem;
+    border: 5px solid blue;
+}
 
 .michele-paragraph {
     color: red;
     background-color: black;
-}
-
-.paragraph {
-  color: red;
-  font-weight: 600;
-}
-
-.section {
-  padding: 1rem;
-  border: 5px solid blue;
 }
