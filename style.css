@@ -1,0 +1,9 @@
+.paragraph {
+  color: red;
+  font-weight: 600;
+}
+
+.section {
+  padding: 1rem;
+  border: 5px solid blue;
+}
